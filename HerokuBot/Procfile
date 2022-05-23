@@ -1,1 +1,1 @@
-bot: pjvbot.py
+bot: python main.py
